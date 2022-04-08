@@ -1,0 +1,2 @@
+# Hadamard-transform-calculator
+The Hadamard transform (also known as the Walsh–Hadamard transform, Hadamard–Rademacher–Walsh transform, Walsh transform, or Walsh–Fourier transform) is an example of a generalized class of Fourier transforms. It performs an orthogonal, symmetric, involutive, linear operation on 2m real numbers (or complex, or hypercomplex numbers, although the Hadamard matrices themselves are purely real).
